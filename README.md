@@ -1,5 +1,7 @@
 # awesome_ding
 
+[TOC]
+
 ## A
 
 ### B
